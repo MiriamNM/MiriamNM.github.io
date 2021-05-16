@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MiriamNM
+![MyLogo](https://raw.githubusercontent.com/MiriamNM/MiriamNM/main/assets/Logo%20gitHub.png)
+
 - I’m Front-end developer 😏 and Artificial Intelligence Developer to be 🌐.
 - Today i know HTML, CSS, JS, NODE.JS, JSX and React. 
 - Too, I am teacher Yogini 🎆. 
