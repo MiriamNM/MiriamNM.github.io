@@ -2,6 +2,7 @@
 
 # About me:
 -I’m Front-end developer 😏 and Artificial Intelligence Developer to be 🌐.
+
 -Too, I am teacher Yogini 🎆. 
 
 ### How to reach me in  my LinkedIn www.linkedin.com/in/miriam-nava-muciño
